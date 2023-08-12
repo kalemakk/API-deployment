@@ -1,0 +1,10 @@
+type: document
+version: v4.2.0
+data:
+  documentId: b3cb2c50-0011-44d9-bd56-305d427a8de6
+  name: Doc
+  type: HOWTO
+  summary: Document test
+  sourceType: FILE
+  fileName: Questions.docx
+  visibility: API_LEVEL
